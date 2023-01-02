@@ -23,7 +23,7 @@ email: lunghung.llh.pblog@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I write. 
 
-baseurl: ""
+baseurl: "/llh"
 #baseurl: ": /llh" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lunghunglin
