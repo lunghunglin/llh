@@ -6,6 +6,6 @@ vendor
 .jekyll-cache
 *.gem
 /misc
-
+/_site/licenses
 #<removed/js>
 #<removed/css>
